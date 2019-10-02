@@ -1,4 +1,5 @@
 dict={'apple':5,'ball':2,'orange':3,'guava':4,'peach':69}
+#A dictionary is a collection which is unordered, changeable and indexed. In Python dictionaries are written with curly brackets, and they have keys and values.
 
 print(dict)#simple printing of all dict values and keys
 
